@@ -1,0 +1,23 @@
+{
+  "name": "vimarea",
+  "version": "0.1.0",
+  "description": "vimarea is a drop-in textarea with a vim-mode switch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvmk/vimarea.git"
+  },
+  "keywords": [
+    "vim",
+    "textarea"
+  ],
+  "author": "Vincent A Masiello II",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vvmk/vimarea/issues"
+  },
+  "homepage": "https://github.com/vvmk/vimarea#readme"
+}
